@@ -1,0 +1,253 @@
+[head=1]Chem for Dummies: Volume 2[/head]
+[head=3][italic]by Paige Notfound[/italic][/head]
+
+This book is written with the expectation that you already possess and have worked through the chemicals of Chems for Dummies: Volume 1. The recipes herein assume access to 3 large beakers and one empty jug for each drug. Please note though that some of the more complex recipes may require up to 5 beakers in total, but only 3 must be large beakers.
+
+[head=2]Cryomedicine[/head]
+
+Cryomedicine is incredibly powerful; if medical knows how to use cryo, it's about all they need.
+
+[head=3]Cryoxadone[/head]
+In a large beaker, mix:
+[bullet/] 40 Oxygen
+[bullet/] 5 Plasma
+To make 60 [bold]Dexalin[/bold]. Use the ChemMaster to remove the plasma, then pour into a jug.
+[bullet/] 60 Oxygen
+[bullet/] 60 Water
+Add to the jug to produce 180u of [bold]Cryoxadone[/bold]
+Label: Cryo (Brute, Airloss, Toxin, Burn - <213K)
+
+[head=3]Doxarubixadone[/head]
+In a large beaker, mix:
+[bullet/] 20 Oxygen
+[bullet/] 5 Plasma
+To make 30 [bold]Dexalin[/bold]. Use the ChemMaster to remove the plasma. Then add:
+[bullet/] 30 Oxygen
+[bullet/] 30 Water
+To produce 90u [bold]Cryoxadone[/bold]. Pour into a jug.
+In the large beaker, mix:
+[bullet/] 30 Radium
+[bullet/] 30 Phosphorous
+[bullet/] 30 Chlorine
+To make 90u of [bold]Unstable Mutagen[/bold]. Pour into the jug to make 180u of [bold]Doxarubixadone[/bold]
+Label: Doxa (Genetic - <213K)
+
+[head=3]Aloxadone[/head]
+First, make 80u [bold]Sigynate[/bold] in a large beaker. The recipe is too long to recite again here, please refer to [bold]Covering The Bases[/bold]. Pour into a jug.
+
+This recipe requires aloe leaves from botany. Grind the aloe leaves into a large beaker to produce [bold]Aloe[/bold] and [bold]Dermaline[/bold]. Remove the Dermaline in a ChemMaster. Accumulate 80 Aloe in a large beaker. Pour into the jug.
+
+In another large beaker, combine:
+[bullet/] 10 Oxygen
+[bullet/] 5 Plasma
+To make 15 [bold]Dexalin[/bold]. Remove the Plasma in a ChemMaster.
+Add:
+[bullet/] 15 Oxygen
+[bullet/] 15 Water
+To make 45 [bold]Cryoxadone[/bold]. Pour 40u into the jug to make 160u of [bold]Aloxadone[/bold]
+Label: Alox (Burn - Dead, <213K)
+
+[head=3]Necrosol[/head]
+This recipe requires [bold]Omnizine[/bold]. To get Omnizine, botany must provide Ambrosia Deus. You can grind Smile Extract for it, but you shouldn't. Save that desperate measure for Ambuzol Plus.
+
+Obtain 15 Omnizine in a large beaker.
+
+In another beaker, mix:
+[bullet/] 10 Oxygen
+[bullet/] 5 Plasma
+To make 15 [bold]Dexalin[/bold]. Remove the Plasma in a ChemMaster.
+Add:
+[bullet/] 15 Oxygen
+[bullet/] 15 Water
+To make 45 [bold]Cryoxadone[/bold].
+
+In a third beaker combine:
+[bullet/] 45 Blood
+[bullet/] 30 Cryoxadone
+[bullet/] 15 Omnizine
+Heat on a hotplate to make 30u of [bold]Necrosol[/bold]
+Label: Necro (Brute, Burn, Poison - Dead, <213K)
+
+[head=3]Opporozine[/head]
+This recipe requires Cognizine. See "Cognizine" in [bold]Non-Medical Requests[/bold] further into the book.
+
+In a large beaker, mix:
+[bullet/] 10 Oxygen
+[bullet/] 5 Plasma
+To make 15 [bold]Dexalin[/bold]. Use the ChemMaster to remove the plasma. Then add:
+[bullet/] 15 Oxygen
+[bullet/] 15 Water
+To produce 45u [bold]Cryoxadone[/bold]. Now add:
+[bullet/] 15 Radium
+[bullet/] 15 Phosphorous
+[bullet/] 15 Chlorine
+To make 90u of [bold]Doxarubixadone[/bold].
+
+In another large beaker, combine:
+[bullet/] 25 Cognizine
+[bullet/] 25 Doxarubixadone
+[bullet/] 50 Plasma
+Heat on a hotplate to produce 75u of [bold]Opporozine[/bold].
+Label: Oppo (Rotting - <213K)
+
+[head=2]Zombies![/head]
+If zombies are called, hit the panic button to close the shutters. Chemistry is likely to be targeted first, and you need to drop everything and work fast. Romerol poisoning can be slowed with bed rest and dylovene, but actual treatment will require the blood of a zombie. Make sure medical staff are bringing you dead zombies or collecting zombie blood themselves for you.
+
+[head=3]Ambuzol[/head]
+This will treat infection, but provides no inoculation.
+In a large beaker, mix:
+[bullet/] 30 Hydrogen
+[bullet/] 10 Nitrogen
+To make 40 [bold]Ammonia[/bold]. Pour into a jug.
+Next, in another large beaker mix:
+[bullet/] 15 Silicon
+[bullet/] 15 Nitrogen
+[bullet/] 15 Potassium
+To make 45 [bold]Dylovene[/bold]. Pour 40 into the jug.
+Finally, in another large beaker collect:
+[bullet/] 80 Zombie Blood
+Pour into the jug to make 160u of [bold]Ambuzol[/bold]. 
+Label: Ambu (Zombie Cure - 10u dose each)
+
+[head=3]Ambuzol Plus[/head]
+This will treat infection and inoculate against further infection. Get two jugs for this.
+In a large beaker, mix:
+[bullet/] 30 Hydrogen
+[bullet/] 10 Nitrogen
+To make 40 [bold]Ammonia[/bold]. Pour into a jug.
+Next, in another large beaker mix:
+[bullet/] 15 Silicon
+[bullet/] 15 Nitrogen
+[bullet/] 15 Potassium
+To make 45 [bold]Dylovene[/bold]. Pour 40 into the jug.
+Finally, in another large beaker collect:
+[bullet/] 80 Zombie Blood
+Pour into the jug to make 160u of [bold]Ambuzol[/bold].
+Now collect as much [bold]Omnizine[/bold] as you can find. Omnizine can be obtained by grinding Ambrosia Deus or Smile Extract in a pinch.
+Combine in a one-to-one ratio in a jug.
+[bullet/] X Ambuzol
+[bullet/] X Omnizine
+To get 2X [bold]Ambuzol Plus[/bold]
+Label: Ambu+ (Vaccine - 5u dose)
+
+[head=2]Over The Counter Medicine[/head]
+The feather in a chemist's cap in every shift is providing safe pills for self-medication on the public-facing counter. 
+
+[head=3]Tricordrazine[/head]
+In a large beaker, mix:
+[bullet/] 20 Silicon
+[bullet/] 20 Nitrogen
+[bullet/] 20 Potassium
+To make 60 [bold]Dylovene[/bold]. Buffer this in the ChemMaster.
+Then in the same beaker, mix:
+[bullet/] 20 Oxygen
+[bullet/] 20 Carbon
+[bullet/] 20 Sugar
+To make 60 [bold]Inaprovaline[/bold]. Buffer this in the ChemMaster as well.
+Combine Dylovene and Inaprovaline in equal amounts to make 120u [bold]Tricordrazine[/bold]. Place in the ChemMaster buffer and distribute into 12 pills at 10u dosage.
+Label: Booboo Kisses (Tric)
+
+[head=3]Oculine[/head]
+This one is easiest to obtain by just grinding carrots from botany. But if there are no carrots, it can be synthesized.
+In a large beaker, mix:
+[bullet/] 20 Oxygen
+[bullet/] 20 Hydrogen
+Heat on the hot plate to make 40 [bold]Hydroxide[/bold].
+In another beaker, mix:
+[bullet/] 10 Chlorine
+[bullet/] 10 Sodium
+Heat on hot plate to make 20 [bold]Table Salt[/bold]. Pour into the first beaker.
+Obtain:
+[bullet/] 20 Blood.
+Pour into the first beaker. to make [bold]Oculine[/bold]. Place in the ChemMaster buffer and distribute into 16 pills at 5u dosage.
+Label: Tider's Welding Cure (Ocu)
+
+[head=2]Non-medical Requests[/head]
+Certain chemicals are commonly requested by other departments, and so I will cover them here.
+
+[head=3]Table Salt[/head]
+Request a beaker from the chef if they come asking for table salt. In the beaker, mix:
+[bullet/] 20 Chlorine
+[bullet/] 20 Sodium
+Heat on hot plate to make 40 [bold]Table Salt[/bold]. Double these amounts for a large beaker.
+
+[head=3]Sulfuric Acid[/head]
+Sounds scary, but the chef or bartender may request this for making soy sauce or drinks. Request that the chef bring their own beaker for this. In the chef's beaker, combine:
+[bullet/] 20 Oxygen
+[bullet/] 10 Hydrogen
+[bullet/] 10 Sulfur
+To make 30 [bold]Sulfuric Acid[/bold]. Do not give them more than 30 at a time, they shouldn't need that much. The bartender may need more, and should be given multiple bottles.
+
+[head=3]Unstable Mutagen[/head]
+This is important for botany to do their job, but dangerous in the wrong hands. Only give this to a botanist.
+In a large beaker, mix:
+[bullet/] 30 Radium
+[bullet/] 30 Phosphorous
+[bullet/] 30 Chlorine
+Makes 90u of [bold]Unstable Mutagen[/bold]. Pour into 3 glass bottles and give to the requesting Botanist directly.
+
+[head=3]EZ Nutrient[/head]
+Great for botany [italics]and[/italics] a delicious treat for Dionas.
+In a large beaker, mix:
+[bullet/] 30 Nitrogen
+[bullet/] 30 Phosphorous
+[bullet/] 30 Potassium
+Makes 90u of [bold]EZ Nutrient[/bold]. Pour into 3 glass bottles and serve.
+
+[head=3]Diethylamine[/head]
+In a large beaker, mix:
+[bullet/] 30 Hydrogen
+[bullet/] 10 Nitrogen
+To make 40 [bold]Ammonia[/bold].
+IUsing several vials, centrifuge:
+[bullet/] 80 Welding Fuel
+In total this should produce 40 [bold]Ethanol[/bold]. Collect it in the ChemMaster buffer and pour into the Ammonia beaker to make 80u of [bold]Diethylamine[/bold], a very potent fertilizer. Pour into 3 glass bottles (or 2 bottles and one vial).
+
+[head=3]Robust Harvest[/head]
+In a large beaker, mix:
+[bullet/] 10 Oxygen
+[bullet/] 5 Hydrogen
+[bullet/] 5 Sulfur
+To make 20 [bold]Sulfuric Acid[/bold]. Then add:
+[bullet/] 25 Nitrogen
+[bullet/] 25 Phosphorous
+[bullet/] 25 Potassium
+To make 75 [bold]Robust Harvest[/bold]. Remove the sulfuric acid in a ChemMaster, pour into 3 glass bottles, and serve.
+
+[head=3]Space Cleaner[/head]
+Janitors and others may request space cleaner. A clean station is a happy station, so don't hesitate to provide it.
+In a large beaker, mix:
+[bullet/] 30 Hydrogen
+[bullet/] 10 Nitrogen
+To make 40 [bold]Ammonia[/bold]. Add:
+[bullet/] 40 Water
+To make 80 [bold]Space Cleaner[/bold]. Pour into requested container and serve.
+
+[head=3]Space Lube[/head]
+The clown or mime may request space lube. Report the request to security, and ask them to leave. Do not, under any circumstances, make them space lube. Not even for nukies. [bold]Especially[/bold] not for nukies.
+
+[head=3]Cognizine[/head]
+Grant the curse of consciousness to things that blissfully lacked it. Go mad with the power of gods.
+This recipe requires carpotoxin. It can be obtained by grinding raw carp filets, which can be obtained by butchering space carps.
+
+In a beaker, collect 30 Carpotoxin.
+
+This recipe also requires aloe leaves and galaxy thistle from botany. Grind aloe leaves and galaxy thistle from botany to produce [bold]Siderlac[/bold].
+
+In a beaker, collect 30 Siderlac
+
+In a beaker, combine:
+[bullet/] 5 Welding Fuel
+[bullet/] 5 Hydrogen
+[bullet/] 5 Carbon
+To make 15 [bold]Oil[/bold]. Add:
+[bullet/] 15 Welding Fuel
+[bullet/] 15 Oxygen
+To make 30 [bold]Acetone[/bold]
+
+Combine in a large beaker:
+[bullet/] 30 Carpotoxin
+[bullet/] 30 Siderlac
+[bullet/] 30 Acetone
+To make 30 [bold]Cognizine[/bold]
+Label: Cogni (5u dosage)

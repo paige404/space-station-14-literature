@@ -1,0 +1,254 @@
+[head=1]Chem for Dummies: Volume 1[/head]
+[head=3][italic]by Paige Notfound[/italic][/head]
+
+This book is written such that each recipe will give you a reasonable amount of a drug to fill a jug with for distribution. The recipes assume access to 3 large beakers and one empty jug for each drug. Please note though that some of the more complex recipes may require up to 5 beakers in total, but only 3 must be large beakers.
+
+[head=2]Startup[/head]
+
+At the start of the shift, get these going so that medical has some chems to work with--the less they need to rely on ointments and bruise packs, the better it will be for everyone.
+
+[head=3]Dylovene[/head]
+In a large beaker, mix:
+[bullet/] 30 Silicon
+[bullet/] 30 Nitrogen
+[bullet/] 30 Potassium
+Makes 90 [bold]Dylovene[/bold]. Pour into a jug and repeat to make 180u.
+Label: Dylo (Poison - ODs at 20u)
+
+[head=3]Dexalin+[/head]
+In a large beaker, mix:
+[bullet/] 20 Oxygen
+[bullet/] 5 Plasma
+To make 30 [bold]Dexalin[/bold]. Use the ChemMaster to remove the plasma, then add:
+[bullet/] 30 Carbon
+[bullet/] 30 Iron
+Pour into jug to make 90 [bold]Dexalin+[/bold]. Pour into a jug and repeat process for 180u in the jug.
+Label: Dexa+ (Airloss, Heartbreaker - ODs at 25u)
+
+[head=3]Dermaline[/head]
+In a large beaker, mix:
+[bullet/] 30 Silicon
+[bullet/] 30 Carbon
+Makes 60 [bold]Kelotane[/bold] in a large beaker. Pour into a jug.
+[bullet/] 60 Oxygen
+[bullet/] 60 Phosphorous
+Pour into the jug to make 180u of [bold]Dermaline[/bold]
+Label: Derma (Heat, Shock, Cold - ODs at 10u)
+
+[head=3]Bicaridine[/head]
+In a large beaker, mix:
+[bullet/] 30 Oxygen
+[bullet/] 30 Carbon
+[bullet/] 30 Sugar
+Makes 90 [bold]Inaprovaline[/bold] in a large beaker. Pour into a jug.
+[bullet/] 90 Carbon
+Pour into the jug to make 180u of [bold]Bicaridine[/bold].
+Label: Bicar (Brute - ODs at 15u)
+
+[head=3]Saline[/head]
+In a beaker, mix:
+[bullet/] 20 Chlorine
+[bullet/] 20 Sodium
+Heat on hot plate to make 40 [bold]Table Salt[/bold]. Pour into a jug.
+Fill the jug to the brim with Water to make 200u of [bold]Saline[/bold].
+Label: Saline (Bloodloss)
+
+[head=2]Covering all bases[/head]
+You have to be ready for everything in medical, so once the basics are covered it's time to handle the outliers.
+
+[head=3]Arithrazine[/head]
+In a large beaker, mix:
+[bullet/] 15 Silicon
+[bullet/] 15 Nitrogen
+[bullet/] 15 Potassium
+[bullet/] 45 Radium
+Makes 90 [bold]Hyronalin[/bold] in a large beaker. Pour into a jug.
+[bullet/] 90 hydrogen
+Pour into the jug to make 180u of [bold]Arithrazine[/bold].
+Label: Arith (Rads - Deals Brute and bleeds)
+
+[head=3]Phalanximine[/head]
+In a large beaker, mix:
+[bullet/] 10 Silicon
+[bullet/] 10 Nitrogen
+[bullet/] 10 Potassium
+[bullet/] 30 Radium
+Makes 60 [bold]Hyronalin[/bold] in a large beaker. Pour into a jug.
+In a large beaker, mix:
+[bullet/] 20 Radium
+[bullet/] 20 Phosphorous
+[bullet/] 20 Chlorine
+Makes 60u of [bold]Unstable Mutagen[/bold]. Pour into the jug.
+Using several vials, centrifuge:
+[bullet/] 120 Welding Fuel
+In total this should produce 60 [bold]Ethanol[/bold]. Collect it in the ChemMaster buffer and pour into the jug to make 180u of [bold]Phalanximine[/bold].
+Label: Phalanx (Genetic - serve with Arith)
+
+[head=3]Sigynate[/head]
+This recipe is complex, and requires four [italics]regular[/italics] (or large) beakers plus one large beaker. Make sure you have them ready.
+In one beaker, mix:
+[bullet/] 20 Silicon
+[bullet/] 20 Carbon
+To make 40 [bold]Kelotane[/bold].
+In another beaker mix:
+[bullet/] 10 Oxygen
+[bullet/] 10 Hydrogen
+Heat on the hot plate to make 20 [bold]Hydroxide[/bold]. Add:
+[bullet/] 20 Sodium
+To make 40 [bold]Sodium Hydroxide[/bold]
+In another beaker mix:
+[bullet/] 15 Hydrogen
+[bullet/] 5 Nitrogen
+To make 20 [bold]Ammonia[/bold].
+In another beaker, mix:
+[bullet/] 5 Chlorine
+[bullet/] 5 Sodium
+Heat on hot plate to make 10 [bold]Table Salt[/bold]. Add:
+[bullet/] 10 Ammonia
+[bullet/] 10 Carbon
+[bullet/] 10 Oxygen
+To make 40 [bold]Sodium Carbonate[/bold].
+In one large beaker mix:
+[bullet/] 20 Sodium Hydroxide
+[bullet/] 20 Sodium Carbonate
+[bullet/] 20 Kelotane
+[bullet/] 20 Sugar
+[bullet/] 20 Water
+Heat on a hot plate to make 80u of [bold]Sigynate[/bold]. Pour into a jug and repeat that last mix to make 160u of Sigynate. Do not pursue more, it's not worth it.
+Label: Sigy (Caustic - ODs at 16u)
+
+[head=2] Specialty Meds[/head]
+
+Now that all damage [italics]can[/italics] be healed, we want to make meds for greater efficiency with specific damage types.
+
+[head=3]Bruizine[/head]
+In a large beaker, mix:
+[bullet/] 10 Oxygen
+[bullet/] 40 Carbon
+[bullet/] 10 Sugar
+Makes 60 [bold]Bicaridine[/bold]. Pour into a jug.
+In the large beaker, add:
+[bullet/] 60 Sugar
+Pour into the jug.
+In the large beaker, add:
+[bullet/] 54 Lithium
+Pour into the jug to make 120u of [bold]Bruizine[/bold]. Just call it good there, or repeat the process and store the excess.
+Label: Bruiz (Blunt - ODs at 10.5u)
+
+[head=3]Lacerinol[/head]
+This recipe can create deadly Razorinol if not done properly, so pay close attention.
+In a large beaker, mix:
+[bullet/] 15 Oxygen
+[bullet/] 60 Carbon
+[bullet/] 15 Sugar
+Makes 90 [bold]Bicaridine[/bold]. Buffer this in the ChemMaster.
+[bullet/] 45 Hydrogen
+[bullet/] 45 Carbon
+Heat on a hotplate to make [bold]Benzene[/bold]. Buffer this as well in the ChemMaster. Move equal amounts of Benzene and Bicaridine out of the buffer to make [bold]Lacerinol[/bold] in the hot beaker, then move the Lacerinol back into the buffer. Never allow Lacerinol to sit in a beaker with Bicaridine or it will become [bold]Razorinol[/bold].
+This will make in total 180u of [bold]Lacerinol[/bold], to pour into a jug.
+Label: Lace (Slash - ODs at 12u)
+
+[head=3]Puncturase[/head]
+This recipe can create deadly Razorinol if not done properly, so pay close attention.
+[bullet/] 15 Oxygen
+[bullet/] 60 Carbon
+[bullet/] 15 Sugar
+Makes 90 [bold]Bicaridine[/bold]. Buffer this in the ChemMaster.
+[bullet/] 45 Oxygen
+[bullet/] 45 Hydrogen
+Heat on the hot plate to make 90 [bold]Hydroxide[/bold]. Buffer this as well in the ChemMaster. Move equal amounts of Hydroxide and Bicaridine out of the buffer to make [bold]Puncturase[/bold] in the hot beaker, then move the Puncturase back into the buffer. Never allow Puncturase to sit in a beaker with Bicaridine or it will become [bold]Razorinol[/bold].
+This will make in total 180u of [bold]Puncturase[/bold], to pour into a jug.
+Label: Punct (Pierce - ODs at 11u)
+
+[head=3]Leporazine[/head]
+[bullet/] 45 Iron
+[bullet/] 45 Silicon
+Heat on a hotplate to make 90 [bold]Fersilicite[/bold].
+In a separate large beaker, mix:
+[bullet/] 45 Copper
+[bullet/] 45 Fersilicite
+[bullet/] 5 Plasma
+To make 90 [bold]Leporazine[/bold]. Use the ChemMaster to remove the plasma. Pour into a jug, and repeat again to make 180u of [bold]Leporazine[/bold].
+Label: Lepo (Cold - Normalizes body temp)
+
+[head=3]Pyrazine[/head]
+[bullet/] 20 Iron
+[bullet/] 20 Silicon
+Heat on a hotplate to make 40 [bold]Fersilicite[/bold]. Add:
+[bullet/] 40 Copper
+[bullet/] 5 Plasma
+To make 80 [bold]Leporazine[/bold]. Use the ChemMaster to remove the plasma.
+In a separate large beaker, mix:
+[bullet/] 15 Silicon
+[bullet/] 15 Carbon
+Makes 30 [bold]Kelotane[/bold]. Add:
+[bullet/] 30 Oxygen
+[bullet/] 30 Phosphorous
+To make 90 [bold]Dermaline[/bold].
+In a third large beaker, mix:
+[bullet/] 30 Leporazine
+[bullet/] 30 Dermaline
+[bullet/] 30 Carbon
+Heat on a hotplate to make 90 [bold]Pyrazine[/bold]. Pour into a jug and repeat for 180u of [bold]Pyrazine[/bold].
+Label: Pyra (Heat - ODs at 20u)
+
+[head=3]Insuzine[/head]
+[bullet/] 20 Iron
+[bullet/] 20 Silicon
+Heat on a hotplate to make 40 [bold]Fersilicite[/bold]. Add:
+[bullet/] 40 Copper
+[bullet/] 5 Plasma
+To make 80 [bold]Leporazine[/bold]. Use the ChemMaster to remove the plasma.
+In a separate larger beaker, mix:
+[bullet/] 30 Silicon
+[bullet/] 30 Carbon
+Makes 60 [bold]Kelotane[/bold] in a large beaker.
+In a third beaker, mix:
+[bullet/] 30 Leporazine
+[bullet/] 30 Kelotane
+[bullet/] 30 Silicon
+Heat on a hotplate to make 90 [bold]Insuzine[/bold]. Pour into a jug and repeat for 180u of [bold]Insuzine[/bold].
+Label: Insu (Shock - ODs at 12u)
+
+[head=3]Diphenhydramine[/head]
+Using several vials, centrifuge:
+[bullet/] 180 Welding Fuel
+In total this should produce 90 [bold]Ethanol[/bold]. Collect it in the ChemMaster buffer.
+In a beaker mix:
+[bullet/] 30 Hydrogen
+[bullet/] 10 Nitrogen
+To make 40 [bold]Ammonia[/bold]. Collect it in the ChemMaster buffer.
+In a large beaker mix:
+[bullet/] 30 Ammonia
+[bullet/] 30 Ethanol
+To make 60 [bold]Diethylamine[/bold]. Collect it in the ChemMaster buffer.
+In a large beaker, mix:
+[bullet/] 30 Chlorine
+[bullet/] 30 Sodium
+Heat on hot plate to make 60 [bold]Table Salt[/bold].
+In another large beaker, combine:
+[bullet/] 20 Welding Fuel
+[bullet/] 20 Hydrogen
+[bullet/] 20 Carbon
+To make 60 [bold]Oil[/bold].
+In another large beaker, mix:
+[bullet/] 20 Diethylamine
+[bullet/] 20 Oil
+[bullet/] 20 Table Salt
+[bullet/] 20 Carbon
+[bullet/] 20 Ethanol
+Heat on a hot plate to make 60 [bold]Diphenhydramine[/bold]. Pour into a jug and repeat the last mix twice more for 180u of Diphenhydramine.
+Label: Dip (Poison, Hystamine)
+
+[head=3]Tranexamic Acid[/head]
+[bullet/] 40 Oxygen
+[bullet/] 20 Hydrogen
+[bullet/] 20 Sulfur
+To make 60 [bold]Sulfuric Acid[/bold]. Pour into a jug.
+bullet/] 20 Oxygen
+[bullet/] 20 Carbon
+[bullet/] 20 Sugar
+Makes 60 [bold]Inaprovaline[/bold]. Pour into the jug.
+[bullet/] 60 Sugar
+Pour into the jug to make 180u of [bold]Tranexamic Acid[/bold].
+Label: Tran (Coagulant - ODs at 15u)
